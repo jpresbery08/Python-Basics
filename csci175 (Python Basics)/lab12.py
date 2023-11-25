@@ -3,8 +3,7 @@
 import random
 
 def main():
-        
-
+        print(random.randint(0,9))
 
 
 
